@@ -1,0 +1,23 @@
+body{
+    background-color:#45ff45;
+    display:flex;
+    justify-content: center;
+}
+
+.container{
+    text-align: center;
+}
+.btn {
+    background-color: #ea009c; 
+    color: #290bd3;
+    border: none;
+    padding: 15px 30px;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.btn:hover {
+  background-color:#8b841e;
+  color:#01d5ff;
+}
